@@ -7,3 +7,4 @@ Script to create new USER in ubuntu
 #Example: 
     bash usercreate.bash --username vinoth
 
+YOU NEED TO SET THE PASSWORD FOR A NEW USER DURING THE FIRST LOGIN
